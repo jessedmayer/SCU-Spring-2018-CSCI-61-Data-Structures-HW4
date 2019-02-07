@@ -1,0 +1,9 @@
+1. (10 points) Implement the heapafication operation. Do not re-implement the binary tree class. Simply create a funcntion that takes in a binary tree and heapafies it. Meaning it takes in a pointer to a binary tree and converts it into a heap. (You may choose max or min heap).
+
+2. (10 points) Redo the Office Hour homework assignment (HW02) but this time with priority queues instead of regular queues. The Student's should be queued up and meet with the professor based on the urgency of their question.
+
+    Notes:
+
+Add a new parameter which indicates the urgency of the student's question. Again, you may use a randomly generated number within a reasonable range to assign a value to this parameter.
+
+3. (10 points) Peer review
